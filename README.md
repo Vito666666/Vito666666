@@ -1,14 +1,14 @@
 ## Hi there! 👋
 
-I'm Vito, a student / frontend developer / cybersecurity content developer based in Czechia.\n
+I'm Vito, a student / frontend developer / cybersecurity content developer based in Czechia.<br>
+
 I enjoy building clean, modern interfaces and making software that feels good to use.
 
 ### These days I'm focused on:
 
-- <main tech stack — e.g. React, TypeScript, Tailwind>
-- <area — e.g. UI/UX, performance, backend architecture>
-- <goal — e.g. learning system design / algorithms / graphics>
-- Small projects with attention to detail
+- Finishing my studies and getting to university
+- Learning Python
+- Learning about electronics
 
 ### Some stuff I built:
 
