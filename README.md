@@ -33,6 +33,7 @@ I made quite lot of projects, some of them are shown on my [portfolio](https://w
 - I like cats (have three of them)
 - Love playing horror games, reading sci-fi 
 - I am also interested in electronics or computer networking
+- Experimenting in trading or investing
 
 ### Contact:
 
